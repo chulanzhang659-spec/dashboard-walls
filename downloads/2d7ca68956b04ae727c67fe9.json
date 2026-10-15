@@ -1,0 +1,134 @@
+{
+  "competitor_id": "mengniu",
+  "platform": "抖音",
+  "shop_name": "蒙牛冰淇淋旗舰店",
+  "captured_at": "2026-10-15T11:51:00+08:00",
+  "capture_status": "partial_capture",
+  "account_number": "80290702737",
+  "scope": "用户确认官方账号→商品橱窗→商品→进店，店铺销量排序前5条逐项打开；同标题不同列表项保留独立，不无证据合并。",
+  "extraction_method": "MuMu可见页面截图人工核读，未操作验证",
+  "products": [
+    {
+      "rank": 1,
+      "title": "含赠到手50支香草随芯果玉米棒酷爱草莓酷爱香芋冰淇淋雪糕-XHJ2",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "displayed_price": 79.9,
+      "price_label": "详情页展示价，未选SKU；非结算价",
+      "alternative_price": 71.9,
+      "alternative_price_condition": "抖音商城App专享；资格未核实",
+      "sold_display": "已售30万+",
+      "gift_copy": "海报赠经典香草75g×5＋随芯果蓝莓橙子75g×5；含赠共50支，缺货可能等值替换；SKU适用条件未核验",
+      "gift_status": "海报已见，规格适用性待核验",
+      "coupon": "双11领消费券，未领取，门槛/资格待核验",
+      "evidence": [
+        "../patrol-20261015/mengniu-sorted-final.png",
+        "../patrol-20261015/mengniu-entry-detail-current.png",
+        "../patrol-20261015/mengniu-product1.png"
+      ],
+      "captured_at": "2026-10-15T11:51:00+08:00",
+      "missing_reason": "未选择SKU，未取得稳定商品ID/分享链接；不重复触发此前要求人工处理的规格验证。"
+    },
+    {
+      "rank": 2,
+      "title": "含赠到手50支冰淇淋雪糕香草随芯果玉米棒酷爱草莓酷爱香芋-XHJ3",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "displayed_price": 79.9,
+      "price_label": "详情页展示价，未选SKU；非结算价",
+      "alternative_price": 71.9,
+      "alternative_price_condition": "抖音商城App专享；资格未核实",
+      "sold_display": "已售1万+",
+      "gift_copy": "海报赠经典香草75g×5＋随芯果蓝莓橙子75g×5；含赠共50支，缺货可能等值替换；SKU适用条件未核验",
+      "gift_status": "海报已见，规格适用性待核验",
+      "coupon": "双11领消费券，未领取，门槛/资格待核验",
+      "evidence": [
+        "../patrol-20261015/mengniu-sorted-final.png",
+        "../patrol-20261015/mengniu-r2-poster.png",
+        "../patrol-20261015/mengniu-r2-detail.png",
+        "../patrol-20261015/mengniu-r2-text.png"
+      ],
+      "captured_at": "2026-10-15T11:51:00+08:00",
+      "missing_reason": "未选择SKU，未取得稳定商品ID/分享链接；不重复触发此前要求人工处理的规格验证。"
+    },
+    {
+      "rank": 3,
+      "title": "蒙牛随变巧巧满贯冰淇淋到手10支XHJ2",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "displayed_price": 52,
+      "price_label": "详情页展示价，未选SKU；非结算价",
+      "alternative_price": 44,
+      "alternative_price_condition": "抖音商城App专享；资格未核实",
+      "sold_display": "已售100+",
+      "gift_copy": null,
+      "gift_status": "当前主图未见独立赠品说明，不推断无赠品",
+      "coupon": "双11领消费券，未领取，门槛/资格待核验",
+      "evidence": [
+        "../patrol-20261015/mengniu-list-3-4.png",
+        "../patrol-20261015/mengniu-r3-poster.png",
+        "../patrol-20261015/mengniu-r3-detail.png"
+      ],
+      "captured_at": "2026-10-15T11:51:00+08:00",
+      "missing_reason": "未选择SKU，未取得稳定商品ID/分享链接；不重复触发此前要求人工处理的规格验证。"
+    },
+    {
+      "rank": 4,
+      "title": "含赠到手50支香草随芯果玉米棒酷爱草莓酷爱香芋冰淇淋雪糕-XHJ2",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "displayed_price": 79.9,
+      "price_label": "详情页展示价，未选SKU；非结算价",
+      "alternative_price": 71.9,
+      "alternative_price_condition": "抖音商城App专享；资格未核实",
+      "sold_display": "已售83",
+      "gift_copy": "海报赠经典香草75g×5＋随芯果蓝莓橙子75g×5；含赠共50支，缺货可能等值替换；SKU适用条件未核验",
+      "gift_status": "海报已见，规格适用性待核验",
+      "coupon": "双11领消费券，未领取，门槛/资格待核验",
+      "evidence": [
+        "../patrol-20261015/mengniu-list-3-4.png",
+        "../patrol-20261015/mengniu-r4-loaded.png",
+        "../patrol-20261015/mengniu-r4-copy.png"
+      ],
+      "captured_at": "2026-10-15T11:51:00+08:00",
+      "missing_reason": "未选择SKU，未取得稳定商品ID/分享链接；不重复触发此前要求人工处理的规格验证。"
+    },
+    {
+      "rank": 5,
+      "title": "{随变新品上新}蒙牛随变巧巧满贯冰淇淋八重口感75g到手10支-XHJ3",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "displayed_price": 52,
+      "price_label": "详情页展示价，未选SKU；非结算价",
+      "alternative_price": 44,
+      "alternative_price_condition": "抖音商城App专享；资格未核实",
+      "sold_display": "已售67",
+      "gift_copy": null,
+      "gift_status": "当前主图未见独立赠品说明，不推断无赠品",
+      "coupon": "双11领消费券，未领取，门槛/资格待核验",
+      "evidence": [
+        "../patrol-20261015/mengniu-list-r5.png",
+        "../patrol-20261015/mengniu-r5-poster.png"
+      ],
+      "captured_at": "2026-10-15T11:51:00+08:00",
+      "missing_reason": "未选择SKU，未取得稳定商品ID/分享链接；不重复触发此前要求人工处理的规格验证。"
+    }
+  ],
+  "missing": [
+    "5款选中SKU与回显价格",
+    "5款稳定商品ID/链接",
+    "赠品适用规格与消费券条件",
+    "同SKU同条件第二可比时点"
+  ],
+  "feigua_note": "用户确认飞瓜未关联不阻塞此前台采集；未匹配的飞瓜经营数据不合并。"
+}

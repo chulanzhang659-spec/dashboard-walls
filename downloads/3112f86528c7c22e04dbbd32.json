@@ -1,0 +1,123 @@
+{
+  "competitor_id": "yili",
+  "platform": "抖音",
+  "shop_name": "伊利冰淇淋旗舰店",
+  "captured_at": "2026-10-15T10:43:00+08:00",
+  "capture_status": "partial_capture",
+  "scope": "当前店铺销量排序前5条均已打开详情并取得选中规格价；赠品按SKU记录，商品稳定链接与独立消费券条件未齐",
+  "extraction_method": "MuMu可见截图人工核读；UI树此前导出错误139，本次未使用旧XML",
+  "products": [
+    {
+      "rank": 1,
+      "title": "【浓醇入口】绮炫冰淇淋炫玲珑芭乐开心果冰栗多口味组合伊利雪糕DP",
+      "product_id": null,
+      "product_url": null,
+      "link_status": "active",
+      "sold_display": "已售8万+",
+      "sku": "【8件超划算】炫玲珑开心果×3盒+黑巧57g×1盒+甄稀芭乐70g×2杯（赠绮炫软软生巧65g×2支）",
+      "selected_sku_display_price": 69,
+      "price_label": "当前账号所选规格展示价，未下单结算",
+      "gift_copy": "赠绮炫软软生巧65g×2支",
+      "gift_reason": null,
+      "bundle_contents_raw": "【8件超划算】炫玲珑开心果×3盒+黑巧57g×1盒+甄稀芭乐70g×2杯（赠绮炫软软生巧65g×2支）",
+      "alternative_price": 61,
+      "alternative_price_condition": "详情另示抖音商城App专享，未验证资格及是否适用于当前规格",
+      "coupon_conditions": "双11领消费券；未领券，门槛及资格未完整核实，未从规格价格再扣减",
+      "evidence": [
+        "../patrol-20261015/yili-r1-detail.png",
+        "../patrol-20261015/yili-r1-selected.png"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "【热巴同款】伊利甄稀冰淇淋芭乐华夫脆多口味8杯/16杯组合雪糕ZJ",
+      "product_id": null,
+      "product_url": null,
+      "link_status": "active",
+      "sold_display": "已售5万+",
+      "sku": "热巴同款8杯：芭乐70g×4+奶皮子70g×4杯",
+      "selected_sku_display_price": 69,
+      "price_label": "当前账号所选规格展示价，未下单结算",
+      "gift_copy": null,
+      "gift_reason": "已核读主图及规格面板，未见明确独立赠品条款；不等于无赠品",
+      "bundle_contents_raw": "热巴同款8杯：芭乐70g×4+奶皮子70g×4杯",
+      "alternative_price": 61,
+      "alternative_price_condition": "详情另示抖音商城App专享，未验证资格及是否适用于当前规格",
+      "coupon_conditions": "双11领消费券；未领券，门槛及资格未完整核实，未从规格价格再扣减",
+      "evidence": [
+        "../patrol-20261015/yili-r2-detail.png",
+        "../patrol-20261015/yili-r2-selected.png"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "【代言人热巴同款】伊利甄稀杯装冰淇淋白桃草莓葡萄多味雪糕16杯ZJ",
+      "product_id": null,
+      "product_url": null,
+      "link_status": "active",
+      "sold_display": "已售4万+",
+      "sku": "拍下直接到手16杯：芭乐荔枝70g×6+奶皮子70g×2+华夫脆90g×4+香草/葡萄90g×2",
+      "selected_sku_display_price": 99,
+      "price_label": "当前账号所选规格展示价，未下单结算",
+      "gift_copy": null,
+      "gift_reason": "已核读主图及规格面板，未见明确独立赠品条款；不等于无赠品",
+      "bundle_contents_raw": "拍下直接到手16杯：芭乐荔枝70g×6+奶皮子70g×2+华夫脆90g×4+香草/葡萄90g×2；注意：标题16杯，所列数量合计14，来源文字不一致，未自行补足。",
+      "alternative_price": 91,
+      "alternative_price_condition": "详情另示抖音商城App专享，未验证资格及是否适用于当前规格",
+      "coupon_conditions": "双11领消费券；未领券，门槛及资格未完整核实，未从规格价格再扣减",
+      "evidence": [
+        "../patrol-20261015/yili-r3-detail.png",
+        "../patrol-20261015/yili-r3-selected.png"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "【一口一个炫玲珑】伊利绮炫冰淇淋冰栗开心果青提芭乐雪糕12盒SC",
+      "product_id": null,
+      "product_url": null,
+      "link_status": "active",
+      "sold_display": "已售4万+",
+      "sku": "【超划算】12盒：芭乐/冰栗/莓果/黑巧57g×3盒",
+      "selected_sku_display_price": 109,
+      "price_label": "当前账号所选规格展示价，未下单结算",
+      "gift_copy": null,
+      "gift_reason": "已核读主图及规格面板，未见明确独立赠品条款；不等于无赠品",
+      "bundle_contents_raw": "【超划算】12盒：芭乐/冰栗/莓果/黑巧57g×3盒",
+      "alternative_price": 101,
+      "alternative_price_condition": "详情另示抖音商城App专享，未验证资格及是否适用于当前规格",
+      "coupon_conditions": "双11领消费券；未领券，门槛及资格未完整核实，未从规格价格再扣减",
+      "evidence": [
+        "../patrol-20261015/yili-r4-detail.png",
+        "../patrol-20261015/yili-r4-options.png"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "伊利甄稀巧乐兹冰淇淋草莓巧噜噜甄选人气50支组合雪糕CSA",
+      "product_id": null,
+      "product_url": null,
+      "link_status": "active",
+      "sold_display": "已售4万+",
+      "sku": "夏日经典52支×1件",
+      "selected_sku_display_price": 99.9,
+      "price_label": "当前账号所选规格展示价，未下单结算",
+      "gift_copy": "主图：送伊利心情×6+奶提子×6；伊利心情绿豆红豆两口味混发。仅对应夏日经典52支，不套用于另一个50支规格。",
+      "gift_reason": null,
+      "bundle_contents_raw": "夏日经典52支×1件",
+      "alternative_price": 91.9,
+      "alternative_price_condition": "详情另示抖音商城App专享，未验证资格及是否适用于当前规格",
+      "coupon_conditions": "双11领消费券；未领券，门槛及资格未完整核实，未从规格价格再扣减",
+      "evidence": [
+        "../patrol-20261015/yili-r5-detail.png",
+        "../patrol-20261015/yili-r5-selected.png",
+        "../patrol-20261015/yili-r5-poster.png"
+      ]
+    }
+  ],
+  "missing": [
+    "5款稳定商品链接/商品ID",
+    "独立消费券门槛和资格",
+    "第二个同条件快照尚未形成，不计算价格变化"
+  ],
+  "identity_note": "App旗舰店账号进入同名认证店；飞瓜JwCbMjrn关联伊利冰淇淋旗舰店账号81455537862，名称、粉丝及评分一致；App未显示数字账号，仍保留数字身份核验边界"
+}

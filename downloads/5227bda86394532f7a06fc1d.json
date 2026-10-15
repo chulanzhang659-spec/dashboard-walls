@@ -1,0 +1,131 @@
+{
+  "competitor_id": "yili",
+  "platform": "天猫",
+  "shop_name": "伊利冰淇淋旗舰店",
+  "shop_url": "https://yilibql.tmall.com/category.htm",
+  "captured_at": "2026-10-15T01:41:06.573Z",
+  "capture_status": "partial_capture",
+  "frontend_nint_identity": "user_corrected_same_shop_name",
+  "scope": "10月15日核验用户更正的冰淇淋店入口；销量前5款详情与海报已采；规格可选性独立标注",
+  "products": [
+    {
+      "rank": 1,
+      "title": "【热巴同款】下拉详情领补贴-伊利冰淇淋甄稀杯组合10杯",
+      "product_id": "672376974993",
+      "product_url": "https://detail.tmall.com/item.htm?id=672376974993",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=672376974993&mi_id=0000mjoMFgAt67U-XV2RspCckLTngym8WZ6-r9_iOxqGXyA&ns=1&skuId=6036448681838&xxc=taobaoSearch",
+      "sku": "混合口味共10杯(880g)\n推荐",
+      "selected_sku_display_price": 170,
+      "price_label": "预售优惠后总价；定金20元另列",
+      "coupon_conditions": "预售总价170，定金20并非总价；10月15日20点付定金，10月20日20点付尾款；官方立减30元已计入；未来满200减25未计入",
+      "gift_copy": "已核验主图及详情，未见独立赠品承诺，保持未知。商家说明缺货时可能以等价或更高价值商品替换；组合内商品不计作赠品。",
+      "bundle_contents_raw": "混合口味共10杯(880g)\n推荐",
+      "link_status": "active",
+      "availability": "presale",
+      "evidence": [
+        "yili-tmall-r1-dom.json",
+        "yili-tmall-r1-selected.png",
+        "yili-r1-poster-0.webp"
+      ],
+      "public_evidence": [
+        "yili-r1-poster-0.webp"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "【百亿】伊利冰淇淋甄稀芭乐草莓山核桃双色单色甄稀杯共12杯",
+      "product_id": "708417043279",
+      "product_url": "https://detail.tmall.com/item.htm?id=708417043279",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=708417043279&mi_id=0000LI7-iAICZoidNbGanS6F1TwR5vAE-0bbYRN7i5oUVz4&ns=1&skuId=6226445274693&xxc=taobaoSearch",
+      "sku": "【70g*6+90g*6】共12杯(960g)\n推荐",
+      "selected_sku_display_price": 69.1,
+      "price_label": "当前账号已选规格展示价",
+      "coupon_conditions": "百亿补贴60元+淘金币0.9元；未来满200减25未计入",
+      "gift_copy": "已核验主图及详情，未见独立赠品承诺，保持未知。商家说明缺货时可能以等价或更高价值商品替换；组合内商品不计作赠品。",
+      "bundle_contents_raw": "【70g*6+90g*6】共12杯(960g)\n推荐",
+      "link_status": "active",
+      "availability": "available",
+      "evidence": [
+        "yili-tmall-r2-dom.json",
+        "yili-tmall-r2-selected.png",
+        "yili-r2-poster-0.webp"
+      ],
+      "public_evidence": [
+        "yili-r2-poster-0.webp"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "【百亿】伊利冰淇淋新品巧乐兹甄稀多组合雪糕 共40支家庭囤货装",
+      "product_id": "707875570121",
+      "product_url": "https://detail.tmall.com/item.htm?id=707875570121",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=707875570121&mi_id=0000aFy8Xw52LlIo-tddtM5cn3yjtFhecbKMAA7rXma79Sg&ns=1&skuId=6124813541990&xxc=taobaoSearch",
+      "sku": "伊利多口味组合40支",
+      "selected_sku_display_price": 67.1,
+      "price_label": "当前账号已选规格展示价",
+      "coupon_conditions": "百亿补贴58.5元+淘金币0.9元；未来满200减25未计入",
+      "gift_copy": "已核验主图及详情，未见独立赠品承诺，保持未知。商家说明缺货时可能以等价或更高价值商品替换；组合内商品不计作赠品。",
+      "bundle_contents_raw": "伊利多口味组合40支",
+      "link_status": "active",
+      "availability": "available",
+      "evidence": [
+        "yili-tmall-r3-dom.json",
+        "yili-tmall-r3-selected.png",
+        "yili-r3-poster-0.webp"
+      ],
+      "public_evidence": [
+        "yili-r3-poster-0.webp"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "【热巴同款】伊利冰淇淋甄稀90g杯多口味组合雪糕冰激凌 18杯装",
+      "product_id": "706676261983",
+      "product_url": "https://detail.tmall.com/item.htm?id=706676261983",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=706676261983&mi_id=0000uwfNjYvW4QGfxMA0O5Qp4z-7z3VGuziICcbUGJK7ztU&ns=1&skuId=6196063511055&xxc=taobaoSearch",
+      "sku": "白桃乌龙味*6杯+满满葡萄味*6杯+海盐焦糖华夫脆味*6杯(1620g)\n推荐",
+      "selected_sku_display_price": 148.1,
+      "price_label": "当前账号已选规格展示价",
+      "coupon_conditions": "限时立减51元+淘金币0.9元；未来满200减25未计入",
+      "gift_copy": "已核验主图及详情，未见独立赠品承诺，保持未知。商家说明缺货时可能以等价或更高价值商品替换；组合内商品不计作赠品。",
+      "bundle_contents_raw": "白桃乌龙味*6杯+满满葡萄味*6杯+海盐焦糖华夫脆味*6杯(1620g)\n推荐",
+      "link_status": "active",
+      "availability": "available",
+      "evidence": [
+        "yili-tmall-r4-dom.json",
+        "yili-tmall-r4-selected.png",
+        "yili-r4-poster-0.webp"
+      ],
+      "public_evidence": [
+        "yili-r4-poster-0.webp"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "【郑钦文同款】百亿-伊利冰淇淋绮炫芭乐多口味组合装雪糕 共10盒",
+      "product_id": "945969053459",
+      "product_url": "https://detail.tmall.com/item.htm?id=945969053459",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=945969053459&mi_id=0000kUGvUxM0T_TDHvKaZchHsSif6voPeobxkTE1_-Ujdew&ns=1&skuId=6302316626987&xxc=taobaoSearch",
+      "sku": "茉香芭乐*2+黑巧纤纤莓果*2+黑巧奶香冰栗*2+黑巧开心果*2+黑巧*2(570g)\n推荐",
+      "selected_sku_display_price": 69.1,
+      "price_label": "当前账号已选规格展示价",
+      "coupon_conditions": "百亿补贴60元+淘金币0.9元；未来满200减25未计入",
+      "gift_copy": "已核验主图及详情，未见独立赠品承诺，保持未知。商家说明缺货时可能以等价或更高价值商品替换；组合内商品不计作赠品。",
+      "bundle_contents_raw": "茉香芭乐*2+黑巧纤纤莓果*2+黑巧奶香冰栗*2+黑巧开心果*2+黑巧*2(570g)\n推荐",
+      "link_status": "active",
+      "availability": "available",
+      "evidence": [
+        "yili-tmall-r5-dom.json",
+        "yili-tmall-r5-selected.png",
+        "yili-r5-poster-0.webp"
+      ],
+      "public_evidence": [
+        "yili-r5-poster-0.webp"
+      ]
+    }
+  ],
+  "missing": [
+    "赠品未披露，不等同无赠品",
+    "缺同SKU同条件第二时点，暂不计算价格变化"
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "competitor_id": "haagen-dazs",
+  "platform": "天猫",
+  "shop_name": "哈根达斯旗舰店",
+  "captured_at": "2026-10-14T11:41:43.095Z",
+  "capture_status": "partial_capture",
+  "scope": "销量排序TOP5、商品详情、选中口味规格价和满赠提示海报已取得",
+  "products": [
+    {
+      "rank": 1,
+      "title": "【冷链到家】哈根达斯冰淇淋四杯分享装经典草莓巧克力味冰激凌",
+      "product_id": "652057565699",
+      "product_url": "https://detail.tmall.com/item.htm?id=652057565699",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=652057565699&mi_id=0000wzhqTKZmfyblS0swZbxMIn4ehEqhIT_yezlCDi8m23s&ns=1&skuId=5031999113720&xxc=taobaoSearch",
+      "sku": "【香草味81g*2+巧克力味81g*2】(324g)",
+      "selected_sku_display_price": 86,
+      "price_label": "当前账号完整规格展示价；第4款为新客首单价，第3款另示运费10元",
+      "gift_copy": "主图提示直播间下单享满额加赠收纳箱，但未显示门槛金额、活动期限和余量；不能认定当前单件必送。",
+      "coupon_conditions": "立减26元、满170减58券",
+      "link_status": "active",
+      "evidence": [
+        "haagen-dazs-tmall-r1-dom.json",
+        "haagen-dazs-tmall-r1-selected.png",
+        "haagen-dazs-r1-poster-0.webp"
+      ],
+      "public_evidence": [
+        "haagen-dazs-r1-poster-0.webp"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "【冷链到家】哈根达斯冰淇淋经典品脱2杯组合装多口味雪糕冰淇淋",
+      "product_id": "868362643931",
+      "product_url": "https://detail.tmall.com/item.htm?id=868362643931",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=868362643931&mi_id=0000ynduvtXNHCd0RkgOg8FrgQe5DdJTL6s0O4mDLKQ34QY&ns=1&skuId=5696204748849&xxc=taobaoSearch",
+      "sku": "草莓味*1+香草味*1(784g)",
+      "selected_sku_display_price": 130,
+      "price_label": "当前账号完整规格展示价；第4款为新客首单价，第3款另示运费10元",
+      "gift_copy": "主图提示直播间下单享满额加赠收纳箱，但未显示门槛金额、活动期限和余量；不能认定当前单件必送。",
+      "coupon_conditions": "立减33元、满215减52券",
+      "link_status": "active",
+      "evidence": [
+        "haagen-dazs-tmall-r2-dom.json",
+        "haagen-dazs-tmall-r2-selected.png",
+        "haagen-dazs-r2-poster-0.webp"
+      ],
+      "public_evidence": [
+        "haagen-dazs-r2-poster-0.webp"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "【冷链到家】哈根达斯冰淇淋经典口味任选草莓巧克力冰淇淋",
+      "product_id": "900595022871",
+      "product_url": "https://detail.tmall.com/item.htm?id=900595022871",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=900595022871&mi_id=0000xk3UkVNeaPAkAdqz4anbiicZJBuR9yfufX5MaKQFLC4&ns=1&skuId=6041041652786&xxc=taobaoSearch",
+      "sku": "【季节新品】草莓柚香麻糬冰淇淋(77g)",
+      "selected_sku_display_price": 31.5,
+      "price_label": "当前账号完整规格展示价；第4款为新客首单价，第3款另示运费10元",
+      "gift_copy": "主图提示直播间下单享满额加赠收纳箱，但未显示门槛金额、活动期限和余量；不能认定当前单件必送。",
+      "coupon_conditions": "满63减32券；另示运费10元",
+      "link_status": "active",
+      "evidence": [
+        "haagen-dazs-tmall-r3-dom.json",
+        "haagen-dazs-tmall-r3-selected.png",
+        "haagen-dazs-r3-poster-0.webp"
+      ],
+      "public_evidence": [
+        "haagen-dazs-r3-poster-0.webp"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "【冷链到家】哈根达斯10杯冰淇淋小杯多口味组合装",
+      "product_id": "707941527341",
+      "product_url": "https://detail.tmall.com/item.htm?id=707941527341",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=707941527341&mi_id=0000RpHdFhFrAttiG-yNE2w1oHfQIJtzjxb_FpkjZBhayuo&ns=1&skuId=6206377442042&xxc=taobaoSearch",
+      "sku": "草莓味*2 +香草味*2 +巧克力味*2+巧克力风味布朗尼*2+经典提拉米苏风味*2(790g)\n推荐",
+      "selected_sku_display_price": 214,
+      "price_label": "当前账号完整规格展示价；第4款为新客首单价，第3款另示运费10元",
+      "gift_copy": "主图提示直播间下单享满额加赠收纳箱，但未显示门槛金额、活动期限和余量；不能认定当前单件必送。",
+      "coupon_conditions": "立减60元、满398减103券、21元新客礼金（页面重复列示同一礼金，不重复扣减）",
+      "link_status": "active",
+      "evidence": [
+        "haagen-dazs-tmall-r4-dom.json",
+        "haagen-dazs-tmall-r4-selected.png",
+        "haagen-dazs-r4-poster-0.webp"
+      ],
+      "public_evidence": [
+        "haagen-dazs-r4-poster-0.webp"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "【冷链到家】哈根达斯冰淇淋六杯组合装经典草莓巧克力味冰激凌",
+      "product_id": "652811439597",
+      "product_url": "https://detail.tmall.com/item.htm?id=652811439597",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=652811439597&mi_id=00003CVse-xvQLe2gsiKP7oI48-fF0okAFZCHf_c4T7oNAc&ns=1&skuId=6206462742060&xxc=taobaoSearch",
+      "sku": "【季节新品】草莓味*2+抹茶味*2+巧克力风味布朗尼冰淇淋*2(478g)",
+      "selected_sku_display_price": 139,
+      "price_label": "当前账号完整规格展示价；第4款为新客首单价，第3款另示运费10元",
+      "gift_copy": "主图提示直播间下单享满额加赠收纳箱，但未显示门槛金额、活动期限和余量；不能认定当前单件必送。",
+      "coupon_conditions": "立减39元、满257减79券",
+      "link_status": "active",
+      "evidence": [
+        "haagen-dazs-tmall-r5-dom.json",
+        "haagen-dazs-tmall-r5-selected.png",
+        "haagen-dazs-r5-poster-0.webp"
+      ],
+      "public_evidence": [
+        "haagen-dazs-r5-poster-0.webp"
+      ]
+    }
+  ],
+  "missing": [
+    "直播间收纳箱满赠具体金额/期限未标明",
+    "第二个同SKU同优惠条件时点未采集，不计算变化"
+  ]
+}

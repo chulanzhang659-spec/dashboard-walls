@@ -1,0 +1,134 @@
+{
+  "competitor_id": "mengniu",
+  "platform": "天猫",
+  "shop_name": "蒙牛冰淇淋旗舰店",
+  "shop_url": "https://mengniubql.tmall.com/category.htm",
+  "captured_at": "2026-10-15T01:42:53.140Z",
+  "capture_status": "partial_capture",
+  "frontend_nint_identity": "user_corrected_same_shop_name",
+  "scope": "10月15日核验用户更正的冰淇淋店入口；销量前5款详情与海报已采；规格可选性独立标注",
+  "products": [
+    {
+      "rank": 1,
+      "title": "任选十件 不满十件不包邮】蒙牛冰淇淋随变绿色心情雪糕雪泥棒冰",
+      "product_id": "898350766946",
+      "product_url": "https://detail.tmall.com/item.htm?id=898350766946",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=898350766946&mi_id=00005cl3e5q8NJWLwsDmgkUy1jB17-ksHYSD7WwlzUUr5uY&ns=1&skuId=6074828596097&xxc=taobaoSearch",
+      "sku": "经典香草*5(375g)\n推荐",
+      "selected_sku_display_price": 45,
+      "price_label": "当前账号已选规格展示价；运费和优惠条件分列",
+      "coupon_conditions": "预售7天内发货；当前单件显示运费50元；标题写任选十件包邮，主图写89元包邮，门槛表述不一致，未结算验证。",
+      "gift_copy": "已核验详情和海报，未见独立赠品承诺，保持未知。商家注明缺货可替换为所拍规格有货商品或等价/更高价值商品。",
+      "bundle_contents_raw": "经典香草*5(375g)\n推荐",
+      "link_status": "active",
+      "availability": "presale",
+      "evidence": [
+        "mengniu-tmall-r1-dom.json",
+        "mengniu-tmall-r1-selected.png",
+        "mengniu-r1-poster-0.webp"
+      ],
+      "public_evidence": [
+        "mengniu-r1-poster-0.webp"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "任选十件 不满十件不包邮】蒙牛冰淇淋随变绿色心情雪糕雪泥棒冰",
+      "product_id": "700507019301",
+      "product_url": "https://detail.tmall.com/item.htm?id=700507019301",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=700507019301&mi_id=0000vcVKXx2IRkjEneHVPqvg0pDWtt5vMa6kLpzclz0PvrA&ns=1&xxc=taobaoSearch",
+      "sku": null,
+      "selected_sku_display_price": null,
+      "price_label": "页面显示45元，但全部实物口味不可选，不能确认为可购买SKU价格",
+      "coupon_conditions": "预售7天内发货；当前单件显示运费50元；标题写任选十件包邮，主图写89元包邮，门槛表述不一致，未结算验证。",
+      "gift_copy": "已核验详情和海报，未见独立赠品承诺，保持未知。商家注明缺货可替换为所拍规格有货商品或等价/更高价值商品。",
+      "bundle_contents_raw": "当前实物SKU全部禁选，仅购买须知可选；不是可购买规格",
+      "link_status": "active",
+      "availability": "sku_unavailable",
+      "evidence": [
+        "mengniu-tmall-r2-dom.json",
+        "mengniu-tmall-r2-selected.png",
+        "mengniu-r2-poster-0.webp",
+        "mengniu-tmall-r2-availability.json"
+      ],
+      "public_evidence": [
+        "mengniu-r2-poster-0.webp"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "40支】蒙牛冰淇淋随变经典香草随芯脆绿莎莎草莓香芋冰激凌雪糕",
+      "product_id": "796216350135",
+      "product_url": "https://detail.tmall.com/item.htm?id=796216350135",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=796216350135&mi_id=0000x5idcRbTrG96WA_YMtgCQqM5Aqj_yPoo44C9DFW47CM&ns=1&skuId=6128746236800&xxc=taobaoSearch",
+      "sku": "香草3+随芯脆*2+绿莎莎10+酷爱香芋10+酷爱草莓15(2390g)\n推荐",
+      "selected_sku_display_price": 65.9,
+      "price_label": "当前账号已选规格展示价；运费和优惠条件分列",
+      "coupon_conditions": "超级立减26元、限时5元红包、满50减30券、立减45元已计入",
+      "gift_copy": "已核验详情和海报，未见独立赠品承诺，保持未知。商家注明缺货可替换为所拍规格有货商品或等价/更高价值商品。",
+      "bundle_contents_raw": "香草3+随芯脆*2+绿莎莎10+酷爱香芋10+酷爱草莓15(2390g)\n推荐",
+      "link_status": "active",
+      "availability": "available",
+      "evidence": [
+        "mengniu-tmall-r3-dom.json",
+        "mengniu-tmall-r3-selected.png",
+        "mengniu-r3-poster-0.webp"
+      ],
+      "public_evidence": [
+        "mengniu-r3-poster-0.webp"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "任选十件 不满十件不包邮】蒙牛冰淇淋随变绿色心情棒冰雪糕雪泥",
+      "product_id": "708599723793",
+      "product_url": "https://detail.tmall.com/item.htm?id=708599723793",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=708599723793&mi_id=0000BUy2F437t8RX1kxD6SWiPlzeMMl8eS43Zgjm9d5_eCU&ns=1&xxc=taobaoSearch",
+      "sku": null,
+      "selected_sku_display_price": null,
+      "price_label": "页面显示45元，但全部实物口味不可选，不能确认为可购买SKU价格",
+      "coupon_conditions": "预售7天内发货；当前单件显示运费50元；标题写任选十件包邮，主图写89元包邮，门槛表述不一致，未结算验证。",
+      "gift_copy": "已核验详情和海报，未见独立赠品承诺，保持未知。商家注明缺货可替换为所拍规格有货商品或等价/更高价值商品。",
+      "bundle_contents_raw": "当前实物SKU全部禁选，仅购买须知可选；不是可购买规格",
+      "link_status": "active",
+      "availability": "sku_unavailable",
+      "evidence": [
+        "mengniu-tmall-r4-dom.json",
+        "mengniu-tmall-r4-selected.png",
+        "mengniu-r4-poster-0.webp",
+        "mengniu-tmall-r4-availability.json"
+      ],
+      "public_evidence": [
+        "mengniu-r4-poster-0.webp"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "蒙牛冰淇淋雪糕随变经典香草口味巧克力75g冰激凌冰棍冰棒20支",
+      "product_id": "901329346462",
+      "product_url": "https://detail.tmall.com/item.htm?id=901329346462",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=901329346462&mi_id=0000Dp7LgpzpBhfjcj3If2pa8cA2FNMjtX_Nj0yQAa7YyVk&ns=1&skuId=6106363863235&xxc=taobaoSearch",
+      "sku": "随变经典香草味*20支(1500g)\n推荐",
+      "selected_sku_display_price": 54.9,
+      "price_label": "当前账号已选规格展示价；运费和优惠条件分列",
+      "coupon_conditions": "超级立减24元、限时5元红包、满50减30券、立减45元已计入",
+      "gift_copy": "已核验详情和海报，未见独立赠品承诺，保持未知。商家注明缺货可替换为所拍规格有货商品或等价/更高价值商品。",
+      "bundle_contents_raw": "随变经典香草味*20支(1500g)\n推荐",
+      "link_status": "active",
+      "availability": "available",
+      "evidence": [
+        "mengniu-tmall-r5-dom.json",
+        "mengniu-tmall-r5-selected.png",
+        "mengniu-r5-poster-0.webp"
+      ],
+      "public_evidence": [
+        "mengniu-r5-poster-0.webp"
+      ]
+    }
+  ],
+  "missing": [
+    "赠品未披露，不等同无赠品",
+    "缺同SKU同条件第二时点，暂不计算价格变化",
+    "销量第2、第4商品全部实物SKU不可选，规格价格留空；保留商品链接"
+  ]
+}
