@@ -1,7 +1,3 @@
-# 和路雪
+# Operations dashboard
 
-Independent single-file business dashboard.
-
-https://chulanzhang659-spec.github.io/dashboard-walls/
-
-Data dates and gaps are marked within the dashboard.
+Password-protected encrypted site.
